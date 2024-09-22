@@ -20,7 +20,7 @@
 
 title: torsak.dev
 email: torsak.tongkum@gmail.com
-description: >- Why do you code?
+description: Why do you code?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://torsak.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
